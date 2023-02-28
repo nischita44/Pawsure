@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigationMenu"
+        android:visible="false"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Menu" />
+
+    <item
+        android:id="@+id/coursesStaggedFragment"
+        android:icon="@drawable/insurance"
+        android:title="Insurance" />
+
+    <item
+        android:id="@+id/homeCoursesFragment"
+        android:icon="@drawable/home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/matchesCoursesFragment"
+        android:icon="@drawable/help"
+        android:title="Help" />
+
+    <item
+        android:visible="false"
+        android:id="@+id/navigationMyProfile"
+        android:icon="@drawable/ic_user_icon"
+        android:title="User" />
+
+</menu>
