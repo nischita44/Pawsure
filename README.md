@@ -3,6 +3,8 @@
  Guranteed Insurance for your Pets
  
 Android Studio
+
+Check app directory for all the related files
   
   ## Libraries we use
 
