@@ -2,9 +2,11 @@
 
  Guranteed Insurance for your Pets
  
-Android Studio
+Install Android Studio: https://developer.android.com/studio/install
 
 Check app directory for all the related files
+
+Kindly look into TaskList for USE Cases and team members tasks.
   
   ## Libraries we use
 
